@@ -1,17 +1,7 @@
 <?php
 
-trait BookOperations {
-    public function addBook(Book $book)
-    {
-        $this->books[] = $book;
-    }
+require __DIR__ . '/vendor/autoload.php';
 
-    public function getBooks()
-    {
-        return $this->books;
-    }
-}
-    
-class HomeContent {
-    use BookOperations;
-}
+$user = new App\User();
+
+echo $user->hello();
