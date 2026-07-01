@@ -1,0 +1,1 @@
+{"version":2,"defects":{"OrderServiceTest::testCheckout":7},"times":{"CustomerTest::testCustomerName":0.008,"OrderServiceTest::testCheckout":0.002,"ProductTest::testProductPrice":0,"ProductTest::testProductName":0}}
