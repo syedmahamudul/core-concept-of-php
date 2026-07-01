@@ -1,0 +1,15 @@
+{
+    "name": "typescript/core-concept-of-php",
+    "autoload": {
+        "psr-4": {
+            "Typescript\\CoreConceptOfPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahmud",
+            "email": "syedmahamudhassan@gmail.com"
+        }
+    ],
+    "require": {}
+}
